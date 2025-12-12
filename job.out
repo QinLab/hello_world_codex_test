@@ -1,0 +1,21 @@
+Node: <PRIVATE_NODE_IP>.ec2.internal
+Job ID: 374
+Starting hello world job at: Fri Dec 12 17:22:07 UTC 2025
+/var/spool/slurmd/job00374/slurm_script: line 14: cd: /workspace/hello_world_codex_test: No such file or directory
+Python in use: /home/hqin/miniforge3/bin/python3
+Python 3.12.12
+Hello world
+Hostname: <PRIVATE_NODE_IP>.ec2.internal
+Platform: Linux-5.10.245-241.978.amzn2.x86_64-x86_64-with-glibc2.26
+/etc/os-release contents:
+NAME="Amazon Linux"
+VERSION="2"
+ID="amzn"
+ID_LIKE="centos rhel fedora"
+VERSION_ID="2"
+PRETTY_NAME="Amazon Linux 2"
+ANSI_COLOR="0;33"
+CPE_NAME="cpe:2.3:o:amazon:amazon_linux:2"
+HOME_URL="https://amazonlinux.com/"
+SUPPORT_END="2026-06-30"
+Finished at: Fri Dec 12 17:22:07 UTC 2025
